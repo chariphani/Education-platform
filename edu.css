@@ -1,0 +1,32 @@
+.yy{
+    font-weight: 900;
+}
+.dd{
+    font-weight: 600;
+}
+.col{
+    background-color: #FFF1CA;
+ 
+
+}
+.pp{
+    color: #FFB823;
+}
+#aa{
+   display: flex;
+   justify-content: flex-start;
+   /* border: 1px solid red; */
+   /* margin-top: -30px; */
+   font-weight: 600;
+   color:#FFB823;
+   
+}
+.jj{
+    background-color:#FFF1CA;
+    margin-top: 20px;
+    text-align: center;
+   
+    
+}
+
+    
